@@ -13,6 +13,7 @@ I found some parts laying around and decided to make a small pocket camera
 |---|---|
 | Logic | Raspberry PI Zero 1 |
 | camera | [Waveshare RPI camera 5MP](https://erelement.com/shop/rpi-camera-d/)|
+| display | [Waveshare 2inch LCD](https://www.waveshare.com/product/displays/lcd-oled/lcd-oled-3/2inch-lcd-module.htm)|
 
 
 ## Plan of attack
