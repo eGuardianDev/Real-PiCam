@@ -18,8 +18,8 @@ I found some parts laying around and decided to make a small pocket camera
 ## Plan of attack
 
 - [X] Connect camera to the computer
-- [ ] Add display to display images
-- [ ] Add button to capture images
+- [X] Add display to display images
+- [X] Add button to capture images
 - [ ] Add video mode
 - [ ] Make way to change between the two modes
 - [ ] Settings for camera
